@@ -1,3 +1,4 @@
+define(['jquery'], function(jQuery) {
 /*!
  * jQuery UI Effects @VERSION
  * http://jqueryui.com
@@ -1283,3 +1284,4 @@ $.each( baseEasings, function( name, easeIn ) {
 })();
 
 })(jQuery);
+});
